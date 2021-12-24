@@ -15,7 +15,7 @@
 
 <br/>  
 
-
+<!--
 ## Hojin's Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -87,7 +87,7 @@
 * Python, Javascript, Django, Node, Firebase, AWS, MongoDB, MySQL, Git(github, gitlab)
 
 <br/>
-
+-->
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HojinAn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <!--
