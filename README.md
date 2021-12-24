@@ -1,9 +1,7 @@
-## <div align="center">안녕하세요. 안호진입니다. 
+## 안녕하세요. 안호진입니다. 
 
 * Front-End 업무에 관한 지식을 보유하고 있습니다. 
 * 일부 Back-End 기술에도 관심이 있습니다.
-  
-</div>  
   
 
 - 🎉 저는 지금 [멋쟁이사자처럼 프론트엔드 스쿨](https://k-digital.likelion.net/frontend-school)에서 공부하고 있습니다.
@@ -88,8 +86,16 @@
 
 <br/>
 -->
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HojinAn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+## Stats and Language 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HojinAn&show_icons=true&count_private=true&hide_border=true" align="center" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HojinAn&hide_border=true&layout=compact" align="center" height="200"/>  
+</div>  
+
+
+  ****
 <!--
 <br/>
 
@@ -107,7 +113,6 @@
 </a>  
 </div>  -->
 
----
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
