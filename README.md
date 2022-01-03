@@ -12,12 +12,10 @@ o888o   o888o `Y8bod8P'     888 o888o o888o o888o o88o     o8888o o888o o888o
                         `Y888P                                                
 
 </pre>
-* Front-End 업무에 관한 지식을 보유하고 있습니다. 
-* 일부 Back-End 기술에도 관심이 있습니다.
-  
+* Front-End 업무에 관한 지식을 보유하고 있습니다. Back-End 기술도 흥미로울만큼 개발 전반에 관심이 있습니다.
+    
 
-- 🎉 저는 [멋쟁이사자처럼 프론트엔드 스쿨](https://k-digital.likelion.net/frontend-school)에서 [제주코딩베이스캠프](https://www.inflearn.com/users/@jejucoding)와 함께 공부했습니다.  
-- 🧐 차곡차곡 쌓이는 매일의 개발 공부가 즐겁습니다.
+- 🎉 [멋쟁이사자처럼 프론트엔드 스쿨](https://k-digital.likelion.net/frontend-school)에서 [제주코딩베이스캠프](https://www.inflearn.com/users/@jejucoding)와 함께 공부했습니다.  
   
 - ⚡ 컨택을 원하시면 bomultwo@gmail.com으로 연락주세요.  
   
