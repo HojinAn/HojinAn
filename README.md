@@ -16,9 +16,8 @@ o888o   o888o `Y8bod8P'     888 o888o o888o o888o o88o     o8888o o888o o888o
 * 일부 Back-End 기술에도 관심이 있습니다.
   
 
-- 🎉 저는 지금 [멋쟁이사자처럼 프론트엔드 스쿨](https://k-digital.likelion.net/frontend-school)에서 공부하고 있습니다.
-  
-- 🌱 최고의 학습 동반자 [제주코딩베이스캠프](https://www.inflearn.com/users/@jejucoding)와 함께 하고 있어요.  
+- 🎉 저는 [멋쟁이사자처럼 프론트엔드 스쿨](https://k-digital.likelion.net/frontend-school)에서 [제주코딩베이스캠프](https://www.inflearn.com/users/@jejucoding)와 함께 공부했습니다.  
+- 🧐 차곡차곡 쌓이는 매일의 개발 공부가 즐겁습니다.
   
 - ⚡ 컨택을 원하시면 bomultwo@gmail.com으로 연락주세요.  
   
