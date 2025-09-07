@@ -1,8 +1,3 @@
-## 💻 Experience
-
-- [SSAFY(Samsung Software Academy For Youth) 7th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) (2022.01~2022.12)
-  
-
 ## Hojin's Skill Set  
 
 <div>
